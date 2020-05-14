@@ -1,4 +1,5 @@
 My OS: Ubuntu 19.10
+
 NASM version 2.14.02
 
 To get .img file from .asm use following steps:
